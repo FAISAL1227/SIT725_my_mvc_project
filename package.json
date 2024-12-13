@@ -1,0 +1,13 @@
+{
+   "name": "my_mvc_project",
+   "version": "1.0.0",
+   "description": "Example MVC project",
+   "main": "app.js",
+   "scripts": {
+     "start": "node app.js"
+   },
+   "dependencies": {
+     "express": "^4.21.1"
+   }
+ }
+ 
